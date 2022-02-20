@@ -1,0 +1,12 @@
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\bin\Debug\net6.0\Application Core.deps.json
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\bin\Debug\net6.0\Application Core.dll
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\bin\Debug\net6.0\ref\Application Core.dll
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\bin\Debug\net6.0\Application Core.pdb
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\obj\Debug\net6.0\Application Core.csproj.AssemblyReference.cache
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\obj\Debug\net6.0\Application Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\obj\Debug\net6.0\Application Core.AssemblyInfoInputs.cache
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\obj\Debug\net6.0\Application Core.AssemblyInfo.cs
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\obj\Debug\net6.0\Application Core.csproj.CoreCompileInputs.cache
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\obj\Debug\net6.0\Application Core.dll
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\obj\Debug\net6.0\ref\Application Core.dll
+C:\Users\zheng\OneDrive\Desktop\TitleSolution\Application Core\obj\Debug\net6.0\Application Core.pdb
